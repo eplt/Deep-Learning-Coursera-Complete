@@ -2,6 +2,8 @@
 
 Instructor: [Andrew Ng](http://www.andrewng.org/)
 
+Use One-click "Machine Learning and AI" image on DigitalOcean to play around with Python using Jupyter Notebook. Use my referral link and receive $10 in credit immediately as new user, enough to run a small 1GB-RAM 25GB-SSD server for 2 months, $5 a month after. Let me know if you need help with the setup. [https://m.do.co/t/b298d6966c0c](https://m.do.co/t/b298d6966c0c) 
+
 Just completed Deep Learning Specialization on Coursera, using this repo to keep a record of all my completed coursework and related files. I will start writing up on each topic with additional links I have been learning from.
 
 Please observe the Coursera honour code.
