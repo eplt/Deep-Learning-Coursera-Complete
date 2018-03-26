@@ -12,6 +12,11 @@ Inspired/Forked from [awesome-python](https://github.com/vinta/awesome-python), 
 * [Jupyter Notebook (IPython)](https://jupyter.org) - A rich toolkit to help you make the most out of using Python interactively.
 * [ptpython](https://github.com/jonathanslenders/ptpython) - Advanced Python REPL built on top of the [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit).
 
+## Running your own Jupyter Notebook online (free for 2 months)
+
+Use One-click "Machine Learning and AI" image on DigitalOcean to play around with Python using Jupyter Notebook. Use my referral link and receive $10 in credit immediately as new user, enough to run a small 1GB-RAM 25GB-SSD server for 2 months, $5 a month after. Let me know if you need help with the setup. [https://m.do.co/t/b298d6966c0c](https://m.do.co/t/b298d6966c0c)
+I get some free credit (not cash) to run my server there if you sign up using the link.
+
 ## Deep Learning
 
 *Frameworks for Neural Networks and Deep Learning. See: [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning).*
