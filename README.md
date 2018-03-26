@@ -12,7 +12,8 @@ I will also add quiz answers eventually too.
 
 ## Running your own Jupyter Notebook online (free for 2 months)
 
-Use One-click "Machine Learning and AI" image on DigitalOcean to play around with Python using Jupyter Notebook. Use my referral link and receive $10 in credit immediately as new user, enough to run a small 1GB-RAM 25GB-SSD server for 2 months, $5 a month after. Let me know if you need help with the setup. [https://m.do.co/t/b298d6966c0c](https://m.do.co/t/b298d6966c0c) 
+Use One-click "Machine Learning and AI" image on DigitalOcean to play around with Python using Jupyter Notebook. Use my referral link and receive $10 in credit immediately as new user, enough to run a small 1GB-RAM 25GB-SSD server for 2 months, $5 a month after. Let me know if you need help with the setup. [https://m.do.co/t/b298d6966c0c](https://m.do.co/t/b298d6966c0c)
+I get some free credit (not cash) to run my server there if you sign up using the link.
 
 ## Course Video on YouTube
 
@@ -29,3 +30,9 @@ Use One-click "Machine Learning and AI" image on DigitalOcean to play around wit
 * **[Course 5 - Sequence Models](https://www.youtube.com/watch?v=DejHQYAGb7Q&list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6)**
 
 If you are in mainland China or can't access YouTube, can try to watch the videos on [NetEase 网易云课堂](http://mooc.study.163.com/university/deeplearning_ai#/c).
+
+## Beyond Deep Learning Specialization
+
+* **[Awesome Python Machine Learning](https://github.com/eplt/deep-learning-coursera-complete/blob/master/awesome-python-machine-learning.md)**
+I have added a long list of Python frameworks, libraries, software and resources for Machine Learning. Inspired/Forked from [awesome-python](https://github.com/vinta/awesome-python), [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning).
+
