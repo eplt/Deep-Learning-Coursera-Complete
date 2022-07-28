@@ -12,7 +12,7 @@ I will also add quiz answers eventually too.
 
 ## Running your own Jupyter Notebook online (free for 2 months)
 
-Use One-click "Machine Learning and AI" image on DigitalOcean to play around with Python using Jupyter Notebook. Use my referral link and receive $10 in credit immediately as new user, enough to run a small 1GB-RAM 25GB-SSD server for 2 months, $5 a month after. Let me know if you need help with the setup. [https://m.do.co/t/b298d6966c0c](https://m.do.co/t/b298d6966c0c)
+Use DigitalOcean to play around with Python using Jupyter Notebook. Just need to follow this guide to set it up https://www.digitalocean.com/community/tutorials/how-to-set-up-jupyter-notebook-for-python-3. Use my referral link and receive $100 in credit for 60 days immediately as new user, enough to run quite a powerful 4CPUs 8GB RAM 160GB SSD instance for 2 months, remember to kill it before end of 60 days. Let me know if you need help with the setup. [https://m.do.co/t/b298d6966c0c](https://m.do.co/t/b298d6966c0c)
 I get some free credit (not cash) to run my server there if you sign up using the link.
 
 ## Course Video on YouTube
