@@ -36,3 +36,4 @@ If you are in mainland China or can't access YouTube, can try to watch the video
 * **[Awesome Python Machine Learning](https://github.com/eplt/deep-learning-coursera-complete/blob/master/awesome-python-machine-learning.md)**
 I have added a long list of Python frameworks, libraries, software and resources for Machine Learning. Inspired/Forked from [awesome-python](https://github.com/vinta/awesome-python), [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning).
 
+* **[Generative Adversarial Networks Specialization on Coursera](https://github.com/eplt/Generative-Adversarial-Networks-GANs-Coursera-Complete)** I have added another repo for the GAN specialization.
